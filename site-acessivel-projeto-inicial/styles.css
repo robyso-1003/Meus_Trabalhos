@@ -21,7 +21,7 @@ section {
 
 
 .nav-link {
-    color: #474746;
+    color: #353535;
     font-weight: 600;
 }
 
@@ -98,11 +98,11 @@ h2 {
     font-family: 'Lemon', serif;
     font-size: 2.5em;
     font-style: normal;
-    color: var(--laranja-claro);
+    color: var(#0000);
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #ffffff;
 
 }
 
@@ -138,5 +138,5 @@ h2 {
 
 /* chama classe do bootstrap para modificar a cor */
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #ffffff;
 }
